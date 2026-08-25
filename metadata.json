@@ -1,0 +1,7 @@
+{
+  "name": "Suraksha Pay",
+  "description": "A high-security mobile payment application featuring Zero-Knowledge Proofs, Quantum-Resistant signatures, and AI-driven fraud detection.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
